@@ -5,6 +5,8 @@ public class User {
     private String name;
     private String password;
 
+    // 上传全部
+
     public int getId() {
         return id;
     }
